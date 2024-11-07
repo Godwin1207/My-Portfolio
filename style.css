@@ -1,0 +1,27 @@
+.hsatu{
+    text-decoration: overline;
+    display: inline-flex;
+    margin-top: 70px;
+}
+.nama {
+    color: blue;
+    text-align: center;
+    text-decoration: solid;
+    margin-right: 1cm;
+}
+.slogan{
+    color:red;
+    text-align: center;
+    text-decoration: solid;
+}
+img {
+    border: 0cm;
+
+}
+
+p{
+    color: aqua;
+}
+body{
+    background-color: burlywood;
+}
